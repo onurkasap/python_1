@@ -4,7 +4,7 @@ class sepet_goruntule:
     
     def goruntule(self):
         if self.sepet:
-            print("\n📦 Sepetinizdeki Ürünler:")
+            print("\n Sepetinizdeki Ürünler:")
             print(", ".join(self.sepet))
 
         else:
